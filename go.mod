@@ -1,4 +1,4 @@
-module github.com/icarrera/terraform-testing
+module github.com/icarrera/terratest-localstack-example
 
 go 1.16
 
