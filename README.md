@@ -1,8 +1,8 @@
 ## terratest localstack example
-PoC for running terratest against localstack
+running terratest against localstack
 
 ### why
-- spinning up AWS infrastructure for all tests takes really really long
+- spinning up AWS infrastructure for tests takes really really long
 
 ### requirements 
 - docker
